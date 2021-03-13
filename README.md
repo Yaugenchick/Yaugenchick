@@ -4,4 +4,4 @@
 ##### email  (Yaugen.Yaugenavich@yandex.ru)
 :globe_with_meridians::earth_americas::earth_asia::earth_africa:
 ##### Examples of what can be done for your business:
-[application](https://focus-chi.vercel.app/)
+[multipage service  ] (https://focus-chi.vercel.app/)
